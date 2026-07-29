@@ -1,0 +1,2 @@
+# GitHub_Copilot_workshop
+GitHub Copilot workshopのハンズオンで使用
