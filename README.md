@@ -17,4 +17,8 @@ CCBJI, NeoArk にて開催された GitHub Copilot WorkShop にて public reposi
     - Unit test creation
     - Code improvements
     - AI-driven development (Vibe Coding)
- 
+   
+
+---- 
+<img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/8724fe46-5a99-45b4-9258-91b9a6589e12" />
+
